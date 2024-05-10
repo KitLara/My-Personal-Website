@@ -26,7 +26,7 @@
     color: #fff;
 }
 .col-lg-6{
-    padding-top: 20%;
+    padding-top: 5%;
     color: #fff;
 }
 .col-lg-7{
@@ -244,6 +244,7 @@ footer p:nth-child(2) {
 /* Adjusted padding for social links */
 .social a {
     margin: 10px; /* Updated margin */
+    color: rgb(208, 105, 167);
 }
 
 /* Adjusted padding for container */
