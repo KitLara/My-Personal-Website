@@ -252,3 +252,7 @@ footer p:nth-child(2) {
     padding: 20px; /* Updated padding */
     margin-top: 50px; /* Updated margin */
 }
+.btn:hover {
+    background-color: rgb(208, 105, 167); /* Change to pink color on hover */
+    color: #fff; /* Change text color to white on hover */
+}
