@@ -35,4 +35,10 @@ Contributions to this project are welcome! If you find any issues or would like 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
+## Screenshot
+![image](https://github.com/KitLara/My-Personal-Website/assets/169420441/74ae262e-a26e-4e33-ac58-8a24d5b8ebac)
+![image](https://github.com/KitLara/My-Personal-Website/assets/169420441/4da0e6ab-df9f-4753-9ee6-ac88e302428c)
+![image](https://github.com/KitLara/My-Personal-Website/assets/169420441/bf544972-cb94-4eb6-9375-137170315305)
+![image](https://github.com/KitLara/My-Personal-Website/assets/169420441/b5760884-0c65-47bd-82ad-7c8c3eb52f9c)
+![image](https://github.com/KitLara/My-Personal-Website/assets/169420441/d4710001-4a6d-4c0d-9541-9fec07469a97)
